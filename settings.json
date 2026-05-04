@@ -8,7 +8,7 @@
   "server": {
     "ip": "3_IDIOTS_SERVER.aternos.me",
     "port": 41460,
-    "version": "26.1.2"
+    "version": ""
   },
   "position": {
     "enabled": true,
